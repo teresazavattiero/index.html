@@ -23,3 +23,6 @@ p{
   width: auto;
   display: inline;
 }
+body {
+  border: 1px solid blue
+}
