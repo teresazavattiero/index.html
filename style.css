@@ -16,7 +16,6 @@ p{
   margin: 15px;
   padding: 20px;
   border: 20px solid black;
-}
-body{
+  border-top: 30px solid black;
   display: black;
 }
