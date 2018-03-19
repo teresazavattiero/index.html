@@ -23,6 +23,11 @@ p{
   width: auto;
   display: inline;
 }
-body {
-  border: 1px solid blue
+header {
+margin: 10px;
+background-color: #rgb(0,0,255)
+}
+main {
+  margin: 10px;
+  background-color: #rgb(0,255,0)
 }
