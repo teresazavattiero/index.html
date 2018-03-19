@@ -13,5 +13,10 @@ a {
   color: violet;
 }
 p{
-  margin: 15px
+  margin: 15px;
+  padding: 20px;
+  border: 20px solid black;
+}
+body{
+  display: black;
 }
