@@ -13,9 +13,9 @@ a {
   color: violet;
 }
 p{
-  margin: 15px;
+  margin: 5px;
   padding: 5px;
-  border: 10px solid black;
-  border-top: 30px solid black;
+  border: 5px solid black;
+  border-top: 10px solid black;
   display: black;
 }
