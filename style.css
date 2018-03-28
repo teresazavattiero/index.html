@@ -3,7 +3,7 @@ h1 {
   color: rgb(50,0,50);
   background-color: black;
   font-size: 25px;
-  font: helvetica;
+  font: arial;
 }
 h2 {
   color: white;
@@ -13,6 +13,12 @@ h2 {
 }
 a {
   color: violet;
+}
+a:visited {
+  color: blue;
+}
+a:hover, a:focus{
+  color: red;
 }
 p{
   margin: 5px;
