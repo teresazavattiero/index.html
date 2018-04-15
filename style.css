@@ -45,7 +45,7 @@ video {
   margin-left: 110px;
 }
 body {
-  background-image: "C:\Users\utente\Downloads\black and white (9).JPG";
+  background-image: url("C:\Users\utente\Downloads\black and white (9).JPG");
     background-repeat: no-repeat;
     background-position: top;
 }
