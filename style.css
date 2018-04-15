@@ -4,7 +4,8 @@
 h1 {
   color: black;
   font-size:500%;
-  text-align: right;
+  text-align: left;
+  margin-left: 100px;
 }
 h2{
   color: green;
@@ -12,6 +13,7 @@ h2{
   font: arial;
   text-decoration: line-through;
   text-align: right;
+  margin-right: 100px;
 }
 h3 {
   color: white;
