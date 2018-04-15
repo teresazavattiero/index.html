@@ -39,10 +39,10 @@ p {
 img {
   height: 500px;
   margin-left: 110px;
-  padding-bottom: 50px;
+  padding-right: 50px;
 }
 video {
-  widht: 500px;
+  height: 500px;
   margin-left: 110px;
 }
 ul {
