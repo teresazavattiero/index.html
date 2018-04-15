@@ -9,7 +9,7 @@ h1 {
   font-family: Trebuchet, Tahoma, Arial, sans-serif;
 }
 h2{
-  color: black;
+  color: #031634;
   font-size: 500%;
   font-style: oblique;
   text-align: left;
@@ -20,7 +20,7 @@ h2{
   font-family: Trebuchet, Tahoma, Arial, sans-serif;
 }
 h3 {
-  color: black;
+  color: #031634;
   font-size: 500%;
   font-style: oblique;
   text-align: right;
@@ -30,13 +30,13 @@ h3 {
   font-family: Trebuchet, Tahoma, Arial, sans-serif;
 }
 h4 {
-  color: black;
+  color: #CCB47E;
   font-size: 400%;
   margin-left: 110px;
   font-family: Trebuchet, Tahoma, Arial, sans-serif;
 }
 p {
-  color: black;
+  color: #E8DDCA;
   font-size: 200%;
   margin-left: 110px;
   font-family: Geneva, "Lucida Sans", "Lucida Grande", "Lucida Sans Unicode", Verdana, sans-serif;
@@ -55,7 +55,7 @@ ul {
     padding: 0;
     padding-left: 100px;
     overflow: hidden;
-    background-color: #111;
+    background-color: #033649;
 }
 
 li {
@@ -64,7 +64,7 @@ li {
 
 li a {
     display: block;
-    color: white;
+    color: #CCB47E;
     font-size: 200%;
     text-align: center;
     padding: 14px 50px;
@@ -73,17 +73,17 @@ li a {
 }
 
 li a:hover {
-    background-color: #333;
-    color: yellow;
+    background-color: #056466;
+    color: #E8DDCA;
 }
 
 li a:active {
-    background-color: yellow;
-    color: black;
+    background-color: #83AF9B;
+    color: #031634;
 }
 
 li a:visited {
-  color: yellow;
+  color: #E8DDCA;
 }
 
 </html>
