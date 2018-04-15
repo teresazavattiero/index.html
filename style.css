@@ -12,6 +12,7 @@ h2{
   color: #E8DDCA;
   font-size: 500%;
   font-style: oblique;
+  font-weight: lighter;
   text-align: left;
   margin-left: 600px;
   padding-top: 50px;
@@ -23,6 +24,7 @@ h3 {
   color: #E8DDCA;
   font-size: 500%;
   font-style: oblique;
+  font-weight: lighter;
   text-align: right;
   margin-right: 600px;
   border-top-style: solid;
