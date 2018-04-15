@@ -3,18 +3,18 @@
 <style>
 h1 {
   color: blue;
-  font-size:100%;
+  font-size:300%;
 }
 h2{
   color: green;
-  font-size:75%;
+  font-size:150%;
   font: arial;
   text-decoration: line-through;
 }
 h3 {
   color: white;
   background-color: black;
-  font-size:50%;
+  font-size:100%;
   font: arial;
 }
 a {
