@@ -50,12 +50,13 @@ li a {
 }
 
 li a:hover {
-    background-color: #222;
+    background-color: #333;
     color: yellow;
 }
 
 li a:active {
-    background-color: #333;
+    background-color: yellow;
+    color: black;
 }
 
 li a:visited {
