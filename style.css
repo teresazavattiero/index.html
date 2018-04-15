@@ -6,6 +6,7 @@ h1 {
   font-size: 500%;
   text-align: right;
   margin-right: 100px;
+  font-family: Trebuchet, Tahoma, Arial, sans-serif;
 }
 h2{
   color: black;
@@ -16,6 +17,7 @@ h2{
   padding-top: 50px;
   border-bottom-style: solid;
   border-bottom-width: thin;
+  font-family: Trebuchet, Tahoma, Arial, sans-serif;
 }
 h3 {
   color: black;
@@ -25,11 +27,13 @@ h3 {
   margin-right: 600px;
   border-top-style: solid;
   border-top-width: thin;
+  font-family: Trebuchet, Tahoma, Arial, sans-serif;
 }
 h4 {
   color: black;
   font-size: 400%;
   margin-left: 110px;
+  font-family: Trebuchet, Tahoma, Arial, sans-serif;
 }
 p {
   color: black;
@@ -65,6 +69,7 @@ li a {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+    font-family: Trebuchet, Tahoma, Arial, sans-serif;
 }
 
 li a:hover {
