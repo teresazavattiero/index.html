@@ -38,7 +38,7 @@ p {
 }
 img {
   width: 1000px;
-  hspace: 110px;
+  margin-left: 110px;
   vspace: 20px;
 }
 ul {
