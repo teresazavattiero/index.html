@@ -46,7 +46,7 @@ video {
 }
 body {
   background-color: yellow;
-  background-image: url("C:\Users\utente\Downloads\black and white (9).JPG");
+  background-image: "C:\Users\utente\Downloads\black and white (9).JPG";
     background-repeat: no-repeat;
     background-position: top;
 }
