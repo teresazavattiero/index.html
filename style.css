@@ -35,7 +35,11 @@ p {
   color: black;
   font-size: 200%;
   margin-left: 110px;
-  background-image: C:\Users\utente\Downloads\black and white (10).JP;
+}
+img {
+  width: 500px;
+hspace: 110px;
+vspace: 20px;
 }
 ul {
     list-style-type: none;
