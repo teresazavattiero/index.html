@@ -57,6 +57,7 @@ li a:hover {
 li a:active {
     background-color: yellow;
     color: black;
+    font-style: bold;
 }
 
 li a:visited {
