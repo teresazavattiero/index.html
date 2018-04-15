@@ -2,14 +2,16 @@
 <html>
 <style>
 h1 {
-  color: blue;
+  color: black;
   font-size:500%;
+  text-align: right;
 }
 h2{
   color: green;
   font-size:300%;
   font: arial;
   text-decoration: line-through;
+  text-align: right;
 }
 h3 {
   color: white;
