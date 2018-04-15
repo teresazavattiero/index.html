@@ -16,7 +16,7 @@ h2{
   padding-top: 50px;
   border-bottom-style: solid;
   border-bottom-width: thin;
-  padding-bottom: 5px;
+  padding-bottom: -10px;
 }
 h3 {
   color: black;
