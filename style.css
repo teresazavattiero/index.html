@@ -4,14 +4,14 @@
 h1 {
   color: black;
   font-size:500%;
-  text-align: left;
-  margin-left: 100px;
+  text-align: right;
+  margin-right: 100px;
 }
 h2{
-  color: green;
+  color: black;
   font-size:300%;
-  font: arial;
-  text-decoration: line-through;
+  font: century;
+  text-decoration: underline;
   text-align: right;
   margin-right: 100px;
 }
