@@ -44,6 +44,9 @@ video {
   height: 500px;
   margin-left: 110px;
 }
+head {
+  background-color: white;
+}
 body {
   background-color: yellow;
 }
