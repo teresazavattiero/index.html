@@ -16,6 +16,7 @@ h2{
   padding-top: 50px;
   border-bottom-style: solid;
   border-bottom-width: thin;
+  background-color: white;
 }
 h3 {
   color: black;
@@ -25,6 +26,7 @@ h3 {
   margin-right: 600px;
   border-top-style: solid;
   border-top-width: thin;
+  background-color: white;
 }
 h4 {
   color: black;
@@ -43,9 +45,6 @@ img {
 video {
   height: 500px;
   margin-left: 110px;
-}
-head {
-  background-color: white;
 }
 body {
   background-color: yellow;
