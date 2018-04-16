@@ -47,14 +47,11 @@ p {
 img {
   height: 300px;
   margin-left: 100px;
-  border-style: solid;
-  border-color: #056466;
-  border-width: 0px 800px 0px 100px;
 }
 video {
   height: 400px;
   margin-left: 100px;
-  padding-bottom: 100px;
+  padding-bottom: 200px;
 }
 ul {
     list-style-type: none;
