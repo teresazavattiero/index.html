@@ -45,8 +45,8 @@ p {
   font-family: Geneva, "Lucida Sans", "Lucida Grande", "Lucida Sans Unicode", Verdana, sans-serif;
 }
 img {
-  height: 400px;
-  margin-left: 20px;
+  height: 300px;
+  margin-left: 100px;
 }
 video {
   height: 400px;
@@ -68,7 +68,7 @@ li {
 li a {
     display: block;
     color: #CCB47E;
-    font-size: 300%;
+    font-size: 100%;
     text-align: center;
     padding: 14px 50px;
     text-decoration: none;
