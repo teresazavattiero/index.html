@@ -43,11 +43,11 @@ p {
   font-size: 100%;
   margin-left: 100px;
   font-family: "Courier New", monospace;
+  background-color: #056466;
 }
 img {
   height: 300px;
   margin-left: 100px;
-  background-color: #056466;
 }
 video {
   height: 400px;
