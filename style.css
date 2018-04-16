@@ -87,7 +87,8 @@ li a:active {
 }
 
 li a:visited {
-  color: #E8DDCA;
+  background-color: #056466;
+  color: #CCB47E;
 }
 
 </html>
