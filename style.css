@@ -47,8 +47,7 @@ p {
 img {
   height: 300px;
   margin-left: 100px;
-  border-style: solid;
-  border-color: #056466;
+  background-color: #056466;
 }
 video {
   height: 400px;
