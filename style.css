@@ -47,9 +47,9 @@ p {
 img {
   height: 300px;
   margin-left: 100px;
-  outline-style: solid;
-  outline-color: #056466;
-  outline-width: thick;
+  border-style: solid;
+  border-color: #056466;
+  border-width: 0px 800px 0px 100px;
 }
 video {
   height: 400px;
