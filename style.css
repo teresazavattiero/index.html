@@ -49,7 +49,7 @@ img {
   margin-left: 100px;
   border-style: solid;
   border-color: #056466;
-  border-width: 0px 800px 0px 100px;
+  border-width: -30px 800px -30px 100px;
 }
 video {
   height: 400px;
