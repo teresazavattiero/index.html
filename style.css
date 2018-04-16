@@ -49,7 +49,7 @@ img {
   margin-left: 100px;
   outline-style: solid;
   outline-color: #056466;
-  
+  outline-width: thick;
 }
 video {
   height: 400px;
