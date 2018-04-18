@@ -30,6 +30,7 @@ h3 {
   margin-right: 600px;
   border-top-style: solid;
   border-top-width: thin;
+  text-shadow: 2px 2px 4px #000000;
   font-family: "Fira Mono", "DejaVu Sans Mono", Menlo, Consolas, "Liberation Mono", Monaco, "Lucida Console", monospace;
 }
 h4 {
