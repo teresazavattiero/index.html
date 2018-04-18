@@ -94,9 +94,11 @@ li a:visited {
   color: #E8DDCA;
 }
 
-p a{
-  color: #CCB47E;
-    }
+i {
+  color: #E8DDCA;
+  width: 25px;
+  height: 25px;
+  }
 
 p a:hover{
   background-color: #056466;
