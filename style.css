@@ -38,6 +38,7 @@ h4 {
   font-size: 300%;
   font-weight: lighter;
   margin-left: 100px;
+  text-shadow: 2px 2px 4px #000000;
   font-family: "Fira Mono", "DejaVu Sans Mono", Menlo, Consolas, "Liberation Mono", Monaco, "Lucida Console", monospace;
 }
 p {
@@ -49,6 +50,7 @@ p {
 img {
   height: 300px;
   margin-left: 100px;
+  box-shadow: 2px 2px 4px #000000;
 }
 video {
   height: 400px;
