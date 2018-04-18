@@ -95,9 +95,10 @@ li a:visited {
 }
 
 i {
-  color: #CCB47E;
-  height: 20px;
-}
+  color: #E8DDCA;
+  width: 25px;
+  height: 25px;
+  }
 
 * {box-sizing:border-box}
 
