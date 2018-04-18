@@ -100,15 +100,15 @@ i {
   height: 25px;
   }
 
-i a:hover{
+p a:hover{
   background-color: #056466;
   color: #E8DDCA;
 }
-i a:active{
+p a:active{
   background-color: #83AF9B;
   color: #031634;
 }
-i a:visited{
+p a:visited{
   color: #E8DDCA;
 }
 
