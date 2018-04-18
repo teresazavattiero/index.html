@@ -40,10 +40,6 @@ h4 {
   margin-left: 100px;
   font-family: "Fira Mono", "DejaVu Sans Mono", Menlo, Consolas, "Liberation Mono", Monaco, "Lucida Console", monospace;
 }
-#rettangolo {
-  position: absolute;
-  background-color: blue;
-}
 p {
   color: #E8DDCA;
   font-size: 100%;
