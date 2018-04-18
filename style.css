@@ -100,6 +100,18 @@ i {
   height: 25px;
   }
 
+i a:hover{
+  background-color: #056466;
+  color: #E8DDCA;
+}
+i a:active{
+  background-color: #83AF9B;
+  color: #031634;
+}
+i a:visited{
+  color: #E8DDCA;
+}
+
 * {box-sizing:border-box}
 
 /* Slideshow container */
