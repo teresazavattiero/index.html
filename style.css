@@ -94,6 +94,11 @@ li a:visited {
   color: #E8DDCA;
 }
 
+i {
+  color: #CCB47E;
+  height: 20px;
+}
+
 * {box-sizing:border-box}
 
 /* Slideshow container */
