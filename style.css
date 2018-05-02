@@ -142,6 +142,7 @@ i {
   bottom: 8px;
   width: 100%;
   text-align: center;
+  background-color: black transparent;
 }
 
 /* Number text (1/3 etc) */
