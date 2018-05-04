@@ -17,7 +17,7 @@ h2{
   padding-top: 50px;
   border-bottom-style: solid;
   border-bottom-width: thin;
-  text-shadow: 2px 2px 4px #000000;
+  text-shadow: 2px 2px 4px #027382;
   font-family: Montserrat, "Open Sans", sans-serif;
 }
 h3 {
@@ -28,7 +28,7 @@ h3 {
   margin-right: 600px;
   border-top-style: solid;
   border-top-width: thin;
-  text-shadow: 2px 2px 4px #000000;
+  text-shadow: 2px 2px 4px #027382;
   font-family: Montserrat, "Open Sans", sans-serif;
 }
 h4 {
@@ -36,7 +36,7 @@ h4 {
   font-size: 300%;
   font-weight: bold;
   margin-left: 100px;
-  text-shadow: 2px 2px 4px #000000;
+  text-shadow: 2px 2px 4px #027382;
   font-family: Montserrat, "Open Sans", sans-serif;
 }
 p {
@@ -48,12 +48,12 @@ p {
 img {
   height: 300px;
   margin-left: 100px;
-  box-shadow: 2px 2px 4px #000000;
+  box-shadow: 2px 2px 4px #027382;
 }
 video {
   height: 400px;
   margin-left: 100px;
-  box-shadow: 2px 2px 4px #000000;
+  box-shadow: 2px 2px 4px #027382;
 }
 
 li {
@@ -62,7 +62,7 @@ li {
 
 li a {
     display: block;
-    color: #027382;
+    color: #0FB9CB;
     font-size: 150%;
     text-align: center;
     padding: 14px 50px;
@@ -71,17 +71,17 @@ li a {
 }
 
 li a:hover {
-    background-color: #0FB9CB;
-    color: #FE7751;
+    background-color: #027382;
+    color: white;
 }
 
 li a:active {
-    background-color: #0FB9CB;
-    color: #FE7751;
+    background-color: #027382;
+    color: white;
 }
 
 li a:visited {
-  background-color: #0FB9CB;
+  background-color: #027382;
   color: #FE7751;
 }
 
@@ -128,12 +128,12 @@ i {
 
 /* On hover, add a black background color with a little bit see-through */
 .prev:hover, .next:hover {
-  background-color: rgba(0,0,0,0.8);
+  background-color: #027382;
 }
 
 /* Caption text */
 .text {
-  color: black;
+  color: white;
   font-size: 20px;
   font-family: Montserrat, "Open Sans", sans-serif;
   padding: 8px 12px;
@@ -149,14 +149,14 @@ i {
   height: 15px;
   width: 15px;
   margin: 0 2px;
-  background-color: #bbb;
+  background-color: #FE7751;
   border-radius: 50%;
   display: inline-block;
   transition: background-color 0.6s ease;
 }
 
 .active, .dot:hover {
-  background-color: #717171;
+  background-color: #F43728;
 }
 
 /* Fading animation */
