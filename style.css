@@ -37,8 +37,8 @@ h4 {
   font-family: Montserrat, "Open Sans", sans-serif;
 }
 p {
-  color: #440B11;
-  font-size: 100%;
+  color: #027382;
+  font-size: 200%;
   margin-left: 100px;
   font-family: Montserrat, "Open Sans", sans-serif;
 }
@@ -66,17 +66,17 @@ li a {
 }
 
 li a:hover {
-    background-color: #027382;
+    background-color: red;
     color: #0FB9CB;
 }
 
 li a:active {
-    background-color: #0FB9CB;
+    background-color: yellow;
     color: white;
 }
 
 li a:visited {
-  background-color: #0FB9CB;
+  background-color: green;
   color: white;
 }
 
