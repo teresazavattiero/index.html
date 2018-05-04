@@ -9,43 +9,41 @@ h1 {
   font-family: Trebuchet, Tahoma, Arial, sans-serif;
 }
 h2{
-  color: #CCB47E;
+  color: #F43728;
   font-size: 350%;
-  font-style: oblique;
-  font-weight: lighter;
+  font-weight: bold;
   text-align: left;
   margin-left: 250px;
   padding-top: 50px;
   border-bottom-style: solid;
   border-bottom-width: thin;
   text-shadow: 2px 2px 4px #000000;
-  font-family: "Fira Mono", "DejaVu Sans Mono", Menlo, Consolas, "Liberation Mono", Monaco, "Lucida Console", monospace;
+  font-family: Montserrat, "Open Sans", sans-serif;
 }
 h3 {
-  color: #CCB47E;
+  color: #F43728;
   font-size: 350%;
-  font-style: oblique;
-  font-weight: lighter;
+  font-weight: bold;
   text-align: right;
   margin-right: 600px;
   border-top-style: solid;
   border-top-width: thin;
   text-shadow: 2px 2px 4px #000000;
-  font-family: "Fira Mono", "DejaVu Sans Mono", Menlo, Consolas, "Liberation Mono", Monaco, "Lucida Console", monospace;
+  font-family: Montserrat, "Open Sans", sans-serif;
 }
 h4 {
-  color: #056466;
+  color: #F43728;
   font-size: 300%;
-  font-weight: lighter;
+  font-weight: bold;
   margin-left: 100px;
   text-shadow: 2px 2px 4px #000000;
-  font-family: "Fira Mono", "DejaVu Sans Mono", Menlo, Consolas, "Liberation Mono", Monaco, "Lucida Console", monospace;
+  font-family: Montserrat, "Open Sans", sans-serif;
 }
 p {
-  color: #E8DDCA;
+  color: #440B11;
   font-size: 100%;
   margin-left: 100px;
-  font-family: "Courier New", monospace;
+  font-family: Montserrat, "Open Sans", sans-serif;
 }
 img {
   height: 300px;
@@ -64,30 +62,31 @@ li {
 
 li a {
     display: block;
-    color: #CCB47E;
+    color: #027382;
     font-size: 150%;
     text-align: center;
     padding: 14px 50px;
     text-decoration: none;
-    font-family: "Courier New", monospace;
+    font-family: Montserrat, "Open Sans", sans-serif;
 }
 
 li a:hover {
-    background-color: #056466;
-    color: #E8DDCA;
+    background-color: #0FB9CB;
+    color: #FE7751;
 }
 
 li a:active {
-    background-color: #83AF9B;
-    color: #031634;
+    background-color: #0FB9CB;
+    color: #FE7751;
 }
 
 li a:visited {
-  color: #E8DDCA;
+  background-color: #0FB9CB;
+  color: #FE7751;
 }
 
 i {
-  color: #E8DDCA;
+  color: #F43728;
   width: 25px;
   height: 25px;
   }
@@ -114,7 +113,7 @@ i {
   width: auto;
   margin-top: -22px;
   padding: 16px;
-  color: white;
+  color: #F43728;
   font-weight: bold;
   font-size: 18px;
   transition: 0.6s ease;
@@ -136,7 +135,7 @@ i {
 .text {
   color: black;
   font-size: 20px;
-  font-family: "Fira Mono", "DejaVu Sans Mono", Menlo, Consolas, "Liberation Mono", Monaco, "Lucida Console", monospace;
+  font-family: Montserrat, "Open Sans", sans-serif;
   padding: 8px 12px;
   position: absolute;
   bottom: 8px;
