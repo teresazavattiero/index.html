@@ -66,18 +66,18 @@ li a {
 }
 
 li a:hover {
-    background-color: red;
+    background-color: #027382;
     color: #0FB9CB;
 }
 
 li a:active {
-    background-color: yellow;
-    color: white;
+    background-color: #027382;
+    color: #0FB9CB;
 }
 
 li a:visited {
-  background-color: green;
-  color: white;
+  background-color: #027382;
+  color: #0FB9CB;
 }
 
 i {
