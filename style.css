@@ -46,6 +46,7 @@ p {
 img {
   height: 300px;
   margin-left: 100px;
+  box-shadow:
 }
 video {
   height: 400px;
@@ -67,17 +68,17 @@ li a {
 }
 
 li a:hover {
-    background-color: #027382;
-    color: #0FB9CB;
+    background-color: #286E73;
+    color: white;
 }
 
 li a:active {
-    background-color: #027382;
+    background-color: #286E73;
     color: white;
 }
 
 li a:visited {
-  background-color: #027382;
+  background-color: #286E73;
   color: white;
 }
 
