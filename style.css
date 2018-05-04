@@ -38,7 +38,8 @@ h4 {
 }
 p {
   color: #F43728;
-  font-size: 200%/100%;
+  font-size: 200%;
+  line-height: normal;
   margin-left: 100px;
   font-family: Montserrat, "Open Sans", sans-serif;
 }
