@@ -57,7 +57,6 @@ li {
 
 li a {
     display: block;
-    background-color: #0FB9CB;
     color: white;
     font-size: 150%;
     text-align: center;
@@ -68,7 +67,7 @@ li a {
 
 li a:hover {
     background-color: #027382;
-    color: white;
+    color: #0FB9CB;
 }
 
 li a:active {
@@ -77,8 +76,8 @@ li a:active {
 }
 
 li a:visited {
-  background-color: #027382;
-  color: #FE7751;
+  background-color: #0FB9CB;
+  color: white;
 }
 
 i {
