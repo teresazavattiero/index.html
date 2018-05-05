@@ -179,8 +179,7 @@ i {
 /* The animation code */
 @keyframes example {
     0% {left: 0px;}
-    50% {left: 500px;}
-    100% {left: 1000px;}
+    100% {left: 2000px;}
 }
 
 /* The element to apply the animation to */
