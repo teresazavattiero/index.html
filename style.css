@@ -179,7 +179,7 @@ i {
 /* The animation code */
 @keyframes example {
     0% {left: 0px;}
-    100% {left: 800px;}
+    100% {left: 1000px;}
 }
 
 /* The element to apply the animation to */
@@ -189,7 +189,7 @@ div {
     background-color: #01AE9B;
     position: relative;
     animation-name: example;
-    animation-duration: 5s;
+    animation-duration: 3s;
 }
 </html>
 </style>
