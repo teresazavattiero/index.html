@@ -38,8 +38,6 @@ h4 {
   font-weight: bold;
   margin-left: 100px;
   font-family: Montserrat, "Open Sans", sans-serif;
-  -webkit-transition: width 2s; /* Safari */
-    transition: width 2s;
 }
 p {
   color: #F43728;
