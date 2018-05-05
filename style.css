@@ -184,8 +184,8 @@ i {
 
 /* The element to apply the animation to */
 div {
-    width: 100px;
-    height: 100px;
+    width: 500px;
+    height: 75px;
     background-color: red;
     animation-name: example;
     animation-duration: 4s;
