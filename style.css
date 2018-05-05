@@ -186,7 +186,6 @@ i {
 div {
     width: 300px;
     height: 60px;
-    background-color: #01AE9B;
     position: relative;
     animation-name: example;
     animation-duration: 1s;
