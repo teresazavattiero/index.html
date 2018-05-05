@@ -13,7 +13,6 @@ h2{
   font-size: 350%;
   font-weight: bold;
   text-align: left;
-  margin-left: 250px;
   padding-top: 50px;
   border-bottom-style: solid;
   border-bottom-width: thick;
@@ -24,7 +23,6 @@ h3 {
   font-size: 350%;
   font-weight: bold;
   text-align: right;
-  margin-right: 600px;
   border-top-style: solid;
   border-top-width: thick;
   font-family: Montserrat, "Open Sans", sans-serif;
