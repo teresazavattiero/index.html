@@ -19,6 +19,7 @@ h2{
   border-bottom-width: thick;
   font-family: Montserrat, "Open Sans", sans-serif;
   position: relative;
+  line-height: 10px;
 }
 h3 {
   color: #F43728;
@@ -26,8 +27,6 @@ h3 {
   font-weight: bold;
   text-align: right;
   margin-right: 600px;
-  border-top-style: solid;
-  border-top-width: thick;
   font-family: Montserrat, "Open Sans", sans-serif;
   position: relative;
 }
