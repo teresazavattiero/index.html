@@ -178,8 +178,8 @@ i {
 }
 /* The animation code */
 @keyframes example {
-    from {background-color: #01AE9B;}
-    to {background-color: white;}
+    from {left: S0px}
+    to {right: 0px}
 }
 
 /* The element to apply the animation to */
