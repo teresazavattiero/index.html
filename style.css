@@ -182,9 +182,10 @@ i {
 @keyframes crysaltz {
     0% {left: 1100px;}
     100% {left: 250px;}
-}@keyframes vein {
-    0% {right: 0px;}
-    100% {right: 600px;}
+}
+@keyframes vein {
+    0% {left: 0px;}
+    100% {left: 800px;}
 }
 /* The element to apply the animation to */
 div {
