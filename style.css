@@ -178,7 +178,7 @@ i {
 }
 /* The animation code */
 @keyframes example {
-    from {left: S0px}
+    from {left: 0px}
     to {right: 0px}
 }
 
