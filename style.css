@@ -184,7 +184,7 @@ i {
 }
 @keyframes vein {
     0% {right: 1100px;}
-    100% {right: 500px;}
+    100% {right: 100px;}
 }
 /* The element to apply the animation to */
 div {
