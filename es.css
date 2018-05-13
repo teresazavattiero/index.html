@@ -1,0 +1,64 @@
+.center {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.q {
+  height: 33vh;
+  width: 33vh;
+  background-color: red;
+}
+
+.qino-off {
+  height: 0vh;
+  width: 0vh;
+}
+
+.qino-on {
+  height: 16vh;
+  width: 16vh;
+  background-color: yellow;
+}
+
+.rotate{
+  animation: rotation 0.5s forwards;
+}
+
+.rotate-orario{
+  animation: orario 1s infinite;
+}
+
+.rotate-antiorario{
+  animation: antiorario 1s infinite;
+}
+
+@keyframes rotation {
+  from {
+    transform: translate(-50%, -50%) rotate (0deg);
+  }
+  to {
+    transform: translate(-50%, -50%) rotate (-225deg);
+  }
+}
+
+@keyframes orario {
+   from {
+   transform: translate(-50%, -50%)
+rotate(0deg);
+}
+ to {
+   transform: translate(-50%, -50%) rotate(360deg);
+ }
+}
+
+@keyframes antiorario {
+  from {
+  transform: translate(-50%, -50%)
+rotate(0deg);
+}
+to {
+  transform: translate(-50%, -50%) rotate(-360deg);
+}
+}
