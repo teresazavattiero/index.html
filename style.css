@@ -301,16 +301,20 @@ i {
 /* The animation code */
 @keyframes crysaltz {
     0% {left: 1100px;}
-    100% {left: 250px;}
+    100% {left: 0px;}
 }
 @keyframes vein {
     0% {right: 1100px;}
-    100% {right: 100px;}
+    100% {right: 0px;}
 }
 /* The element to apply the animation to */
-div {
+.cry {
     position: relative;
     animation-duration: 1s;
+}
+.ve {
+  position: relative;
+  animation: vein 1s;
 }
 
 </html>
