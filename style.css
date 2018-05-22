@@ -4,10 +4,57 @@
 h1{
   color: black;
 }
-div.fixed {
-  position: -webkit-sticky;
-  position: sticky;
-  top: 0;
+body {
+  margin: 0px;
+}
+.parallaxhome {
+    background-image: url("marble_featured.jpg");
+    width: 100%; height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+}
+.parallaxabout {
+    background-image: url("uvildy-ice-IMG_3692.jpg");
+    width: 100%; height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    top: 100%;
+}
+.parallaxd {
+    background-image: url("maxresdefault.jpg");
+    width: 100%; height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    top: 200%;
+}
+.parallaxa {
+    background-image: url("Ice_road_in_the_Northwest_Territories_-a.jpg");
+    width: 100%; height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    top: 300%;
+}
+.parallaxcontacts {
+    background-image: url("pale.jpg");
+    width: 100%; height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    top: 400%;
 }
 h2{
   color: #F43728;
@@ -19,8 +66,8 @@ h2{
   border-bottom-style: solid;
   border-bottom-width: thick;
   font-family: Montserrat, "Open Sans", sans-serif;
-  position: relative;
-  transform: translate(0, -310%);
+  position: absolute;
+  top: 75px;
 }
 h3 {
   color: #F43728;
@@ -29,11 +76,16 @@ h3 {
   text-align: right;
   margin-right: 500px;
   font-family: Montserrat, "Open Sans", sans-serif;
-  position: relative;
-  transform: translate(0, -515%);
+  position: absolute;
+  top: 250px;
+  left: 570px;
 }
-.ice{
-  transform: translate(0, -1310px)
+.rettangolo {
+   background-color:#01AE9B;
+   width: 850px;
+   height: 175px;
+   position: absolute;
+   top: 300px;
 }
 h4 {
   color: #F43728;
@@ -41,6 +93,12 @@ h4 {
   font-weight: bold;
   margin-left: 100px;
   font-family: Montserrat, "Open Sans", sans-serif;
+  position: absolute;
+}
+.about {
+  font-size: 700%;
+  margin-left: 430px;
+  transform: translate(0, -300px);
 }
 p {
   color: white;
@@ -49,16 +107,48 @@ p {
   margin-left: 100px;
   font-family: Montserrat, "Open Sans", sans-serif;
 }
-video {
-  height: 400px;
-  margin-left: 100px;
+
+hr {
+   width: 500px;
+   height: 5px;
+   color: #F43728;
+   border-style: solid;
+   background-color: #F43728;
+   position: absolute;
+   margin-left: 50%;
+   transform:translate(-50%, 450px)
 }
 
-li {
+.logo {
+  width: 17%;
+  margin-top: 38%;
+  display: block;
+  margin-left: 50%;
+  transform:translate(-50%, 0)
+}
+
+.barra {
+  position: fixed;
+  z-index: 999;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  padding-left: 50px;
+  padding-right: 65.5px;
+  overflow: hidden;
+  background-color: #01AE9B;
+}
+.contatti {
+ list-style-type: none;
+ margin: 0;
+ transform: translate(0,225px);
+ margin-left:18vw;
+}
+
+.b {
     float: left;
 }
-
-li a {
+.b a {
     display: block;
     color: white;
     font-size: 150%;
@@ -67,20 +157,29 @@ li a {
     text-decoration: none;
     font-family: Montserrat, "Open Sans", sans-serif;
 }
-
-li a:hover {
+.b a:hover {
     background-color: #72D2C8;
     color: white;
 }
 
-li a:active {
-    background-color: #72D2C8;
-    color: white;
+.c {
+    float: left;
 }
-
-li a:visited {
-  background-color: #72D2C8;
-  color: white;
+.c a {
+    margin: 5px;
+    border: 5px solid #01AE9B;
+    display: block;
+    color: white;
+    font-size: 150%;
+    text-align: center;
+    padding: 14px 50px;
+    text-decoration: none;
+    font-family: Montserrat, "Open Sans", sans-serif;
+}
+.c a:hover {
+    margin: 5px;
+    border: 5px solid #72D2C8;
+    color: white;
 }
 
 i {
@@ -92,11 +191,17 @@ i {
 .link:hover {
  opacity: 0.5;
 }
-.center {
+.centerd {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 45%; height: 60%;
+}
+.centera {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%; height: 60%;
 }
 * {box-sizing:border-box}
 
@@ -105,6 +210,10 @@ i {
   max-width: 1000px;
   position: relative;
   margin: auto;
+  transform: translate(0, 100px);
+}
+.slideshow-container1 {
+  transform:translate(0,200px);
 }
 
 /* Hide the images by default */
@@ -112,7 +221,7 @@ i {
     display: none;
 }
 
-.center:hover {
+.centerd:hover, .centera:hover {
   opacity: 0.5;
 }
 
@@ -164,6 +273,7 @@ i {
   border-radius: 50%;
   display: inline-block;
   transition: background-color 0.6s ease;
+  transform: translate(650px,210px);
 }
 
 .active, .dot1:hover, .dot2:hover {
@@ -202,5 +312,6 @@ div {
     position: relative;
     animation-duration: 1s;
 }
+
 </html>
 </style>
